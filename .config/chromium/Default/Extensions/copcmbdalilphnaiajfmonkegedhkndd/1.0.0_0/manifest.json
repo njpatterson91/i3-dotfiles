@@ -1,0 +1,16 @@
+{
+   "background": {
+      "scripts": [ "desktop-stream-id.js", "api-background-script.js" ]
+   },
+   "description": "GoToTraining Screensharing",
+   "externally_connectable": {
+      "matches": [ "https://app.gototraining.com/*" ]
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlg+ml9PaMQKAEWYk8y6gaaDWJUVJT8kXLUf0EicWdNt15T2Tp52629brxVwWj2tvoD0NtcvUg5OjjoOAtBssneC4UoJlStjGRM+qF2e0IKLfFgQEa30xzPHEDcTQlaWBRv1oFhWvjOnr/eNLVxXNRAxZffBSoxPDTuWrYvR1mV208yMy5wZ5ssdd1obIY++rUidnpyIS+ykQNgAydE1lgCasPkGLfmpR4SbdT1WFZPCJzXDukCHyjHmWhccmu2ZxxQiW6ra972pNAfX4rM3ZGjEZsSty27Nt4ELW3skUmrM6Fvgupuj4W+oQ2gDzth/Nk9Ltb94TSAvosVG2SHoZMQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "34",
+   "name": "GoToTraining Screensharing",
+   "permissions": [ "desktopCapture" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}

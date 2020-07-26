@@ -1,0 +1,18 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/odst0016/Git/User-Interface-II
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse nathaniel-patterson-day2
+> git rev-parse --symbolic-full-name nathaniel-patterson-day2@{u}
+> git rev-list --left-right nathaniel-patterson-day2...refs/remotes/origin/nathaniel-patterson-day2
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/odst0016/Git/User-Interface-II/.git/refs/remotes/origin/nathaniel-patterson-day2', is most likely packed.
+> git config --get commit.template
+> git show --textconv :index.html
+> git ls-files --stage -- /home/odst0016/Git/User-Interface-II/index.html
+> git cat-file -s 57e9abcae010ef4d10f5122ff70173dac28ab234
+> git check-ignore -v -z --stdin

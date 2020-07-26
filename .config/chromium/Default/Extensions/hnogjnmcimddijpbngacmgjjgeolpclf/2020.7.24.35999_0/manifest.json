@@ -1,0 +1,44 @@
+{
+   "app": {
+      "display_mode": "browser",
+      "icon_color": "#0CA5F1",
+      "launch": {
+         "web_url": "https://play.rainway.com/"
+      },
+      "linked_icons": [ {
+         "size": 16,
+         "url": "https://play.rainway.com/favicon-16.png?v=2"
+      }, {
+         "size": 32,
+         "url": "https://play.rainway.com/favicon-32.png?v=2"
+      }, {
+         "size": 48,
+         "url": "https://play.rainway.com/favicon-32.png?v=2"
+      }, {
+         "size": 64,
+         "url": "https://play.rainway.com/favicon-32.png?v=2"
+      }, {
+         "size": 96,
+         "url": "https://play.rainway.com/favicon-32.png?v=2"
+      }, {
+         "size": 128,
+         "url": "https://play.rainway.com/favicon-32.png?v=2"
+      }, {
+         "size": 256,
+         "url": "https://play.rainway.com/favicon-32.png?v=2"
+      } ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "lTAzgXEERQPmMQ5H8PT2rozDZHefCwEsQG1uAgMTKS8=",
+   "name": "Rainway Web Client",
+   "version": "2020.7.24.35999"
+}

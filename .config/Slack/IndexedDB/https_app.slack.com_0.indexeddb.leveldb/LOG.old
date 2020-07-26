@@ -1,0 +1,6 @@
+2020/07/25-12:05:44.811 18c3 Reusing MANIFEST /home/odst0016/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/25-12:05:44.811 18c3 Recovering log #3
+2020/07/25-12:05:44.891 18c3 Reusing old log /home/odst0016/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000003.log 
+2020/07/25-12:05:54.830 1918 Level-0 table #5: started
+2020/07/25-12:05:54.879 1918 Level-0 table #5: 1600167 bytes OK
+2020/07/25-12:05:54.882 1918 Delete type=0 #3
