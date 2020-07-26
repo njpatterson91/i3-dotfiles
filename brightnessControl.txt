@@ -1,0 +1,3 @@
+to change max brightness 
+sudo -i
+echo 187 > /sys/class/backlight/intel_backlight/brightness
